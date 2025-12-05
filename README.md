@@ -94,7 +94,5 @@
 
 ## 📧 Contact
 * **Email:** `gumtteun@gmail.com`
-* **LinkedIn:** [Your LinkedIn Profile](<your_linkedin>)
-* **Blog/Portfolio:** [Your Portfolio URL](<your_portfolio_url>)
 
 <br>
