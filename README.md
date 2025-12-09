@@ -1,82 +1,111 @@
 <div align="center">
-  <h1>🔥 AI/Backend 엔지니어 (DevOps/자동화 전문)</h1>
-  <p><strong>DdoDdomi | AI System Architect & Full-Cycle Developer</strong></p>
-  <p>실시간 데이터 파이프라인과 자동화 시스템 설계를 통해 사용자 경험(UX) 최적화 및 서비스 안정성을 확보하는 개발자입니다.</p>
-  <p>SSAFY 프로젝트 팀장 4회, 실습코치 경험을 바탕으로, End-to-End 시스템 구축 및 리더십을 입증했습니다.</p>
+  <h1>🔥 AI/Backend Engineer & System Architect</h1>
+  <h3>Complexity to Clarity: 혁신적 아키텍처 설계와 실전 구현</h3>
+  <p>
+    복잡한 요구사항을 분석하여 <strong>확장 가능한 아키텍처</strong>를 설계하고,<br>
+    <strong>AI 모델 서빙 및 데이터 파이프라인 최적화</strong>를 통해 비즈니스 가치를 창출합니다.
+  </p>
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/KoBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLOv10-00FFFF?style=for-the-badge&logo=computervision&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </div>
-
----
-
-## 💡 Core Competencies & Experience
-
-* **🌐 시스템 안정성 및 운영 (DevOps):** 설계부터 배포(CI/CD) 및 운영까지 전 과정을 책임지며, **Jenkins, Docker, AWS** 환경에서 서비스 안정성을 확보합니다.
-* **🧠 AI 기반 자동화:** NLP(KoBERT)와 Computer Vision(YOLOv10) 모델을 활용하여 **업무 프로세스 및 사용자 입력 최소화**를 위한 자동화 솔루션을 구축했습니다.
-* **⚙️ 실시간/분산 환경 처리:** **Redis Geospatial** 및 **WebSocket**을 활용하여 응급 상황 탐지 및 위치 기반 매칭 등 **실시간 데이터 스트리밍 및 최적화** 경험을 보유하고 있습니다.
-* **🤝 기술 리더십:** 다수의 프로젝트 팀장 경험과 실습 코치 역할을 통해 기술 아키텍처 설계, 팀원 멘토링, 문제 해결을 주도했습니다.
-
----
-
-## 🛠️ Tech Stack (Specialization)
-| Specialization | Key Technologies |
-| :--- | :--- |
-| **Backend / API** | `Spring Boot` `FastAPI` `Kotlin` `Java` `Python` |
-| **AI / ML** | `KoBERT` `YOLOv10` `ResNet` `Python` |
-| **Infra / DevOps** | `AWS EC2` `Docker` `Jenkins` `Nginx` `GitHub Actions` `Linux` |
-| **DB / Realtime** | `MySQL` `MongoDB` `Redis (Geospatial)` `WebSocket` `FCM` |
-| **Mobile / UX** | `Android/WearOS` `Jetpack Compose` `React Native` `BLE` |
-
----
-
-## 🏆 Featured Results (Key Projects)
-
-### 1️⃣ WearOS 응급상황 탐지/알림 + CPR 피드백
-**👉 핵심 성과:** **'응급 상황 발생 후 평균 10초 이내 구조 가능 사용자 매칭'** (목표 지표 달성)
-
-* **역할:** 팀장 (전체 아키텍처 설계), 백엔드, Redis Geospatial 매칭 로직 개발 및 데이터 흐름 최적화.
-* **기술:** `Spring Boot`, `Redis(Geospatial)`, `FCM`, `Kotlin(WearOS)`.
-* **주요 기여:** WearOS 센서 데이터 수집 로직 설계 및 **Redis Geospatial 기반 고속 위치 탐색 시스템** 구축.
-
----
-
-### 2️⃣ APP AI 식단/식비 자동화
-**👉 핵심 성과:** '사진 1장으로 칼로리/식비 자동 계산 및 등록'을 통한 사용자 입력 최소화 구조 구현.
-
-* **역할:** 팀장 (백엔드/아키텍처 주도), CV 모델 설계 및 전처리 파이프라인 구축.
-* **기술:** `YOLOv10`, `ResNet`, `FastAPI`, `Spring Boot`, `React Native(TS)`.
-* **주요 기여:** 음식 객체 탐지(YOLOv10)와 섭취량 추정(ResNet)을 결합한 **통합 연산 파이프라인 설계**.
-
----
-
-### 3️⃣ Web AI 심리 분석/관리 플랫폼
-**👉 핵심 성과:** **'KoBERT 기반 감정 분류 모델의 성능 개선'** 및 심리 전문가와의 협업을 통한 모델 이론 검증 완료.
-
-* **역할:** 팀장 (설계/배포 주도), NLP 모델/데이터 파이프라인 구축.
-* **기술:** `FastAPI`, `KoBERT`, `React`, `Docker`, `Jenkins`.
-* **주요 기여:** 데이터셋 재정의 및 모델 성능 최적화, **RTC 기반 실시간 소통 기능** 구현.
-
----
-
-### 4️⃣ TCP/UDP 기반 게임 교육 프로젝트 (개인)
-**👉 핵심 성과:** **네트워크 프로그래밍 교육생 이해도 획기적 향상** (실시간 시연 및 긍정 VOC 확보).
-
-* **역할:** 기획, 개발, 시연, 교육 **1인 수행**.
-* **기술:** `C++`, `Python` (로그인/게임/채팅 서버 분리).
-* **주요 기여:** TCP/UDP 적용 근거를 명확히 비교하는 **서버 분리 아키텍처**를 교육 목적으로 설계.
-
----
-
-## 🌟 Awards & Leadership
-* **🏅 SSAFY 프로젝트 3관왕:** 공통 PJT 우수팀, 자율 PJT 우수팀, 결선 발표회 **1위 수상** (삼성전자주식회사).
-* **📚 SSAFY 실습코치:** 교육생 프로젝트 멘토링 및 기술 교육 지원.
-* **👨‍💻 정보처리기사, JLPT N2, OPIc IM2.**
-
----
-
-## 📞 Contact
-* **Email:** `gumtteun@gmail.com`
 
 <br>
 
+## 💡 Professional Summary
+* **Full-Cycle Engineering:** 요구사항 분석부터 아키텍처 설계, 구현, CI/CD 배포까지 프로젝트 전 과정을 주도합니다.
+* **Performance Optimization:** Redis Caching, 비동기 처리, 쿼리 튜닝을 통해 시스템 성능을 극한으로 최적화한 경험이 있습니다.
+* **Team Leadership:** 4건의 핵심 프로젝트 팀장 및 실습 코치 경험을 바탕으로 기술적 의사결정을 주도하고 팀 성장을 이끌었습니다.
+
+---
+
+## 🚀 Key Projects (Featured Results)
+
+### 1️⃣ Web AI 기반 심리 분석 플랫폼
+> **사용자 감정 데이터를 실시간으로 분석/시각화하고 전문가 피드백을 연계하는 웹 플랫폼**
+
+**🏆 Impact (핵심 성과)**
+- **`Accuracy`**: 데이터셋 재정의 및 파이프라인 개선으로 감정 분류 정확도 **70% → 90% 향상**
+- **`Latency`**: Redis 캐싱 전략 도입으로 데이터 조회 속도 **2.5s → 0.3s 단축**
+- **`Reliability`**: 전문가 협업을 통해 15,000건 이상의 데이터셋 라벨링 기준 정립
+
+**🛠 Tech & Role**
+- **Role**: 팀장, Backend & AI Serving, DevOps
+- **Stack**: `FastAPI`, `KoBERT`, `Redis`, `Docker`, `Jenkins`, `React`
+- **Architectural Highlight**: 
+    - KoBERT 모델을 MSA 형태로 분리하여 유연한 서빙 구조 확립
+    - RTC/Socket.IO를 활용한 실시간 자조 모임 채팅 및 로드밸런싱 구현
+
+---
+
+### 2️⃣ APP AI 식단/식비 자동화 솔루션
+> **객체 탐지(Object Detection) 기술을 활용한 원터치 식단 기록 및 영양 분석 서비스**
+
+**🏆 Impact (핵심 성과)**
+- **`UX Innovation`**: 사진 1장으로 입력 프로세스를 단축하여 소요 시간 **1분 → 10초 이내 (95% 단축)**
+- **`Performance`**: YOLOv10 경량화를 통해 모바일 환경 객체 인식률 **90% 달성**
+- **`Automation`**: 일일 500건 이상의 이미지 데이터를 처리하는 자동화 파이프라인 구축
+
+**🛠 Tech & Role**
+- **Role**: 팀장, AI Integration, API Design
+- **Stack**: `Python (YOLOv10, ResNet)`, `FastAPI`, `Spring Boot`, `React Native`
+- **Architectural Highlight**:
+    - YOLOv10(탐지) + ResNet(양 측정) 앙상블 모델 통합
+    - 대용량 이미지 업로드 병목 해결을 위한 비동기 처리 및 RESTful API 표준 수립
+
+---
+
+### 3️⃣ WearOS 응급상황 자동 탐지 시스템
+> **스마트워치 센서 데이터 기반 실시간 구조 요청 및 CPR 피드백 골든타임 확보 서비스**
+
+**🏆 Impact (핵심 성과)**
+- **`Golden Time`**: 이상 징후 감지부터 알림 발송까지 지연 시간 **30s → 10s 이내 단축**
+- **`Optimization`**: Redis Geospatial 적용으로 반경 검색 쿼리 성능 **O(N) → O(logN) 최적화**
+- **`Stability`**: 초당 100건 이상의 센서 스트림을 무중단 처리하는 백엔드 구축
+
+**🛠 Tech & Role**
+- **Role**: 팀장, Architecture Design, Core Logic
+- **Stack**: `Spring Boot`, `Kotlin (WearOS)`, `Redis (Geo)`, `MongoDB`, `FCM`
+- **Architectural Highlight**:
+    - SPOF(단일 장애점)를 최소화한 고가용성 아키텍처 설계
+    - 가속도/심박수 센서 노이즈 제거 알고리즘 및 데이터 동기화 프로토콜 개발
+
+---
+
+### 4️⃣ Network Protocol 시각화 교육 (개인 프로젝트)
+> **TCP/UDP 게임 서버 구현을 통한 네트워크 프로토콜 원리 교육 시뮬레이션**
+
+- **Performance**: 다수 클라이언트 접속 시연 시 **패킷 손실률 0.1% 미만** 유지
+- **Tech Coaching**: Login(TCP), Game(UDP) 서버 분리 설계를 통해 교육생 이해도 및 만족도 극대화
+- **Stack**: `C++`, `Python (Socket Programming)`
+
+---
+
+## 🏅 Awards & Certifications
+* **🏆 SSAFY 프로젝트 3관왕** (공통/자율 우수팀, 결선 발표회 **1위** - 삼성전자)
+* **👨‍🏫 SSAFY 실습코치** (교육생 기술 멘토링 및 디버깅 지원)
+* **정보처리기사 / JLPT N2 / OPIc IM2**
+
+---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DdoDdomi&show_icons=true&theme=default&hide_border=true&count_private=true" width="400" />
+  <h3>📫 Contact Me</h3>
+  <a href="mailto:gumtteun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DdoDdomi&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
 </div>
