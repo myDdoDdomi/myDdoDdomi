@@ -107,5 +107,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DdoDdomi&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
 </div>
