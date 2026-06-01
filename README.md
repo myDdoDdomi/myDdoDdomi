@@ -95,16 +95,16 @@
 
 ---
 
-### 4️⃣ UNISON — AI 기반 UN SDG 연계 학습 플랫폼 (LMS) · 단독 개발
-> ㈜로그엔코딩 재직 중, 학원생의 UN SDGs 활동을 지원하기 위해 단독 설계·구현한 AI LMS
+### 4️⃣ agents-zip — 부서별 AI 에이전트 팀 (멀티 에이전트 오케스트레이션) · 개인 프로젝트
+> Claude Code의 서브에이전트·Skills·MCP를 토대로 실제 조직의 직군 구조를 옮긴 "부서 에이전트 팀"을 설계·표준화하는 진행 중 프로젝트
 
-**Role** · 단독 개발 (서버사이드 API 설계·전체 구현)
-**Stack** · `TypeScript` `Firebase Functions (Node.js)` `Firestore` `OpenAI API (GPT-4o-mini)` `GCP Secret Manager`
+**Role** · 개인 설계·구축 (오케스트레이션 아키텍처)
+**Stack** · `Claude Code` `Sub-agents` `Skills` `MCP (Model Context Protocol)` `Anthropic API`
 
-- GPT-4o-mini로 SDG 연계 8주 커리큘럼 자동생성·AI 채점 API 구현
-- Firestore 소유권 기반 보안 규칙 작성, 소프트삭제(휴지통) 패턴 적용
-- OpenAI 키를 GCP Secret Manager로 분리 관리
-- 🔗 https://github.com/myDdoDdomi/pjt-unison
+- 개발·QA·문서·디자인·마케팅·이력서 등 부서별 전문 에이전트 팀을 정의하고, 그룹장(오케스트레이터)이 작업을 분해 → 전문 에이전트에 위임 → 결과를 종합하는 2단 계층 아키텍처 설계
+- 역할별 최소 권한 도구와 모델 배분(opus/sonnet/haiku), 영역별 MCP 연동을 표준화한 "팀 팩토리" 구조
+- AI 에이전트 생태계 딥리서치 보고서를 설계 근거로 직접 작성
+- 🔗 https://github.com/myDdoDdomi/agents-zip
 
 ---
 
