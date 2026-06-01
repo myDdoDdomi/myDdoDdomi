@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💻 Backend Engineer</h1>
+  <h1>💻 Fullstack Engineer</h1>
   <h3>Complexity to Clarity — 확장 가능한 백엔드 설계와 실전 구현</h3>
   <p>
     복잡한 요구사항을 분석해 <strong>안정적이고 확장 가능한 서버 아키텍처</strong>를 설계하고,<br>
